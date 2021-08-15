@@ -1,5 +1,6 @@
 <html>
 	<body>
+	        <title>Titulo Kruger para conflicto</title>
 		<title>Titulo apregado por otros</title>
 		<div>
 			<h3> Prueba comandos Git</h3>
